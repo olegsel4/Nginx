@@ -1,0 +1,122 @@
+2017/01/26 19:47:22 [emerg] 486#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:22 [emerg] 486#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:22 [emerg] 486#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:22 [emerg] 486#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:22 [emerg] 486#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:22 [emerg] 486#0: still could not bind()
+2017/01/26 19:47:47 [emerg] 698#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:47 [emerg] 698#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:47 [emerg] 698#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:47 [emerg] 698#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:47 [emerg] 698#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:47:47 [emerg] 698#0: still could not bind()
+2017/01/26 19:48:55 [emerg] 919#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:48:55 [emerg] 919#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:48:55 [emerg] 919#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:48:55 [emerg] 919#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:48:55 [emerg] 919#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:48:55 [emerg] 919#0: still could not bind()
+2017/01/26 19:55:34 [emerg] 2317#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:55:34 [emerg] 2317#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:55:34 [emerg] 2317#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:55:34 [emerg] 2317#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:55:34 [emerg] 2317#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:55:34 [emerg] 2317#0: still could not bind()
+2017/01/26 19:58:04 [emerg] 2637#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:58:04 [emerg] 2637#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:58:04 [emerg] 2637#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:58:04 [emerg] 2637#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:58:04 [emerg] 2637#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 19:58:04 [emerg] 2637#0: still could not bind()
+2017/01/26 20:23:01 [emerg] 3858#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:23:01 [emerg] 3858#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:23:01 [emerg] 3858#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:23:01 [emerg] 3858#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:23:01 [emerg] 3858#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:23:01 [emerg] 3858#0: still could not bind()
+2017/01/26 20:31:50 [emerg] 4357#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:31:50 [emerg] 4357#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:31:50 [emerg] 4357#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:31:50 [emerg] 4357#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:31:50 [emerg] 4357#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:31:50 [emerg] 4357#0: still could not bind()
+2017/01/26 20:40:25 [emerg] 4948#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:40:25 [emerg] 4948#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:40:25 [emerg] 4948#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:40:25 [emerg] 4948#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:40:25 [emerg] 4948#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2017/01/26 20:40:25 [emerg] 4948#0: still could not bind()
+2017/01/26 21:29:42 [emerg] 4575#0: directive "include" is not terminated by ";" in /home/user/nginx/conf/nginx.conf:37
+2017/01/26 21:30:07 [emerg] 4810#0: directive "include" is not terminated by ";" in /home/user/nginx/conf/nginx.conf:37
+2017/01/26 21:30:54 [emerg] 4990#0: directive "include" is not terminated by ";" in /home/user/nginx/conf/nginx.conf:37
+2017/01/26 21:31:51 [emerg] 5015#0: unexpected end of file, expecting "}" in /home/user/nginx/conf/vhosts/vhost.conf:32
+2017/01/26 21:33:44 [emerg] 5051#0: "listen" directive is not allowed here in /home/user/nginx/conf/vhosts/vhost.conf:1
+2017/01/26 21:34:03 [emerg] 5060#0: "location" directive is not allowed here in /home/user/nginx/conf/vhosts/vhost.conf:5
+2017/01/26 21:36:31 [emerg] 5108#0: unknown directive "serever" in /home/user/nginx/conf/vhosts/vhost.conf:1
+2017/01/26 21:36:47 [emerg] 5245#0: unexpected end of file, expecting "}" in /home/user/nginx/conf/vhosts/vhost.conf:31
+2017/01/26 21:37:33 [warn] 5268#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:38:38 [error] 5271#0: *1 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.14, server: 192.168.122.14:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.14:8080"
+2017/01/26 21:42:43 [warn] 5441#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:42:43 [emerg] 5441#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:42:43 [emerg] 5441#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:42:43 [emerg] 5441#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:42:43 [emerg] 5441#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:42:43 [emerg] 5441#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:42:43 [emerg] 5441#0: still could not bind()
+2017/01/26 21:43:12 [warn] 5452#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:43:12 [warn] 5460#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:43:12 [emerg] 5460#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:43:12 [emerg] 5460#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:43:12 [emerg] 5460#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:43:12 [emerg] 5460#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:43:12 [emerg] 5460#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:43:12 [emerg] 5460#0: still could not bind()
+2017/01/26 21:44:36 [warn] 5632#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:44:36 [emerg] 5632#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:44:36 [emerg] 5632#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:44:36 [emerg] 5632#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:44:36 [emerg] 5632#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:44:36 [emerg] 5632#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:44:36 [emerg] 5632#0: still could not bind()
+2017/01/26 21:44:54 [error] 5271#0: *4 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.14, server: 192.168.122.14:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.14:8080"
+2017/01/26 21:45:44 [warn] 5734#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:45:44 [emerg] 5734#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:45:44 [emerg] 5734#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:45:44 [emerg] 5734#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:45:44 [emerg] 5734#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:45:44 [emerg] 5734#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:45:44 [emerg] 5734#0: still could not bind()
+2017/01/26 21:45:58 [error] 5271#0: *5 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.14, server: 192.168.122.14:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.14:8080"
+2017/01/26 21:46:20 [warn] 5823#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:46:20 [warn] 5828#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:46:20 [emerg] 5828#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:20 [emerg] 5828#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:20 [emerg] 5828#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:20 [emerg] 5828#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:20 [emerg] 5828#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:20 [emerg] 5828#0: still could not bind()
+2017/01/26 21:46:27 [warn] 5981#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:46:27 [emerg] 5981#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:27 [emerg] 5981#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:27 [emerg] 5981#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:27 [emerg] 5981#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:27 [emerg] 5981#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:27 [emerg] 5981#0: still could not bind()
+2017/01/26 21:46:31 [warn] 6001#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:46:32 [warn] 6005#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:46:32 [emerg] 6005#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:32 [emerg] 6005#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:32 [emerg] 6005#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:32 [emerg] 6005#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:32 [emerg] 6005#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:46:32 [emerg] 6005#0: still could not bind()
+2017/01/26 21:47:39 [warn] 6191#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:47:39 [emerg] 6191#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:47:39 [emerg] 6191#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:47:39 [emerg] 6191#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:47:39 [emerg] 6191#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:47:39 [emerg] 6191#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/26 21:47:39 [emerg] 6191#0: still could not bind()
+2017/01/26 21:49:46 [warn] 6226#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:49:46 [warn] 6230#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
+2017/01/26 21:50:14 [error] 6234#0: *1 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.14, server: 192.168.122.14:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.14:8080"
