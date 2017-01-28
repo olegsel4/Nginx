@@ -120,3 +120,27 @@
 2017/01/26 21:49:46 [warn] 6226#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
 2017/01/26 21:49:46 [warn] 6230#0: conflicting server name "192.168.122.14:8080" on 0.0.0.0:8080, ignored
 2017/01/26 21:50:14 [error] 6234#0: *1 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.14, server: 192.168.122.14:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.14:8080"
+2017/01/28 13:35:13 [warn] 14750#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 13:35:28 [error] 14753#0: *1 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.1:8080"
+2017/01/28 13:35:28 [error] 14753#0: *1 open() "/home/user/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1:8080, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.1:8080"
+2017/01/28 13:44:10 [warn] 15619#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 13:44:10 [warn] 15622#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 13:44:10 [emerg] 15622#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:10 [emerg] 15622#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:10 [emerg] 15622#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:10 [emerg] 15622#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:10 [emerg] 15622#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:10 [emerg] 15622#0: still could not bind()
+2017/01/28 13:44:47 [warn] 15790#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 13:44:47 [warn] 15792#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 13:44:47 [emerg] 15792#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:47 [emerg] 15792#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:47 [emerg] 15792#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:47 [emerg] 15792#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:47 [emerg] 15792#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/28 13:44:47 [emerg] 15792#0: still could not bind()
+2017/01/28 13:45:08 [warn] 15969#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 13:45:08 [warn] 15971#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 14:52:30 [warn] 4505#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 14:52:30 [warn] 4510#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
+2017/01/28 15:52:07 [emerg] 4837#0: unexpected end of file, expecting "}" in /home/user/nginx/conf/nginx.conf:124
