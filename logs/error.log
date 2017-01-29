@@ -144,3 +144,14 @@
 2017/01/28 14:52:30 [warn] 4505#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
 2017/01/28 14:52:30 [warn] 4510#0: conflicting server name "192.168.122.1:8080" on 0.0.0.0:8080, ignored
 2017/01/28 15:52:07 [emerg] 4837#0: unexpected end of file, expecting "}" in /home/user/nginx/conf/nginx.conf:124
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: bind() to 0.0.0.0:8443 failed (98: Address already in use)
+2017/01/29 17:06:40 [emerg] 4788#0: still could not bind()
